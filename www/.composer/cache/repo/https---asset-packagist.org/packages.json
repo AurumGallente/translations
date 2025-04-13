@@ -1,0 +1,1 @@
+{"providers-url":"\/p\/%package%\/%hash%.json","provider-includes":{"p\/provider-latest\/%hash%.json":{"sha256":"a270b55ac71908aef1038e26a217aa01c877b4818c5620a4e0c55689a085a7c4"}},"available-package-patterns":["bower-asset\/*","npm-asset\/*"],"last-modified":"Sun, 13 Apr 2025 09:33:13 GMT"}
